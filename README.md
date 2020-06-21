@@ -1,1 +1,3 @@
-# Converting-A-B-W-image-into-a-Colored-image-using-OpenCV
+# Converting a Colored Image into Black and White using OpenCV
+Input=jg.jpg
+output=jgbw.jpg
